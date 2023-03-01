@@ -1,0 +1,12 @@
+# Editor files.ts
+.idea
+.vscode
+
+# node_modules
+node_modules
+
+# Env variables
+.env
+
+# Uploads
+uploads
